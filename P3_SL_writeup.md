@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./Submission_images/BarChart.png "Data Bar chart Visualization"
-[image2]: ./Submission_images/greyscale.png "Grayscale comparison"
+[image2]: ./Submission_images/Greyscale.png "Grayscale comparison"
 [image3]: ./Submission_images/Normalise.png "Normalizing the data"
 [image4]: ./Submission_images/1.png "Traffic Sign 1"
 [image5]: ./Submission_images/2.png "Traffic Sign 2"
