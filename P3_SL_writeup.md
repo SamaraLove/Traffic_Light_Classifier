@@ -146,9 +146,15 @@ If a well known architecture was chosen:
 
 Here are 6 random German traffic signs that were found on the web:
 
+![alt text][image4]
 
-![alt text][image4] ![alt text][image5] ![alt text][image6] 
-![alt text][image7] ![alt text][image8] ![alt text][image9]
+![alt text][image5] ![alt text][image6] 
+
+![alt text][image7]
+
+![alt text][image8]
+
+![alt text][image9]
 
 They were chosen as they have similarities and have different positions and amounts of light. I expected the stop sign with the most white light would be difficult to determine the corresponding label correctly.
 
