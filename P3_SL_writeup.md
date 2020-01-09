@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./Submission_images/BarChart.png "Data Bar chart Visualization"
 [image2]: ./Submission_images/Greyscale.png "Grayscale comparison"
-[image3]: ./Submission_images/Normalise.png "Normalizing the data"
+[image3]: ./Submission_images/Normalise.PNG "Normalising Comparison"
 [image4]: ./Submission_images/1.png "Traffic Sign 1"
 [image5]: ./Submission_images/2.png "Traffic Sign 2"
 [image6]: ./Submission_images/3.png "Traffic Sign 3"
